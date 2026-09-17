@@ -1,0 +1,1232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LmsProject\\LmsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\migrations\\20260912072747_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:migrations\\20260912072747_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\enrollment\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\enrollment\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\lesson\\createlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\lesson\\createlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\lmsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:lmsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignmentsubmission\\createsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignmentsubmission\\createsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\lesson\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\lesson\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\assignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\assignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\enums\\submissionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\enums\\submissionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\enums\\enrollmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\enums\\enrollmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\enums\\assignmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\enums\\assignmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\enums\\assignmentpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\enums\\assignmentpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\models\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:models\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\migrations\\lmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:migrations\\lmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\lesson\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\lesson\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\course\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\course\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\course\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\course\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\course\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\course\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignmentsubmission\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignmentsubmission\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignmentsubmission\\gradesubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignmentsubmission\\gradesubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignment\\updateassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignment\\updateassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignment\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignment\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\dtos\\assignment\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:dtos\\assignment\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:data\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|c:\\lmsproject\\lmsproject\\lmsproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{84522505-A656-4A58-B76E-04FD290EE222}|LmsProject.csproj|solutionrelative:lmsproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LmsProject\\LmsProject\\Migrations\\20260912071857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260912071857_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260912072747_InitialCreate.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Migrations\\20260912072747_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260912072747_InitialCreate.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Migrations\\20260912072747_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260912072747_InitialCreate.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAuwBkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:27:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "Services\\AssignmentService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\AssignmentService.cs",
+              "RelativeToolTip": "Services\\AssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:06:48.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:24:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:50:50.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "Services\\EnrollmentService.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:52:39.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEnrollmentService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IEnrollmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:51:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Enrollment\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Enrollment\\EnrollmentDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Enrollment\\EnrollmentDto.cs",
+              "RelativeToolTip": "DTOs\\Enrollment\\EnrollmentDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:42:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LessonController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "Controllers\\LessonController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T05:33:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:10:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Models\\Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:12:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateLessonDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\CreateLessonDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Lesson\\CreateLessonDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\CreateLessonDto.cs",
+              "RelativeToolTip": "DTOs\\Lesson\\CreateLessonDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:41:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:28:57.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T06:49:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:21:53.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\User\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\RegisterDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\User\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\User\\RegisterDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:39:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LmsProject.csproj",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\LmsProject.csproj",
+              "RelativeDocumentMoniker": "LmsProject.csproj",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\LmsProject.csproj",
+              "RelativeToolTip": "LmsProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T06:41:41.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateSubmissionDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\CreateSubmissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AssignmentSubmission\\CreateSubmissionDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\CreateSubmissionDto.cs",
+              "RelativeToolTip": "DTOs\\AssignmentSubmission\\CreateSubmissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:43:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UpdateUserDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:40:22.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:07:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:58:19.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:58:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:14:08.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LessonRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\LessonRepository.cs",
+              "RelativeToolTip": "Repositories\\LessonRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:48:12.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\LessonService.cs",
+              "RelativeDocumentMoniker": "Services\\LessonService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\LessonService.cs",
+              "RelativeToolTip": "Services\\LessonService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv2oAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:49:38.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:28:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:40:12.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:32:02.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:15:47.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IEnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:50:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateLessonDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\UpdateLessonDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Lesson\\UpdateLessonDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\UpdateLessonDto.cs",
+              "RelativeToolTip": "DTOs\\Lesson\\UpdateLessonDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:42:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:57:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Models\\Entities\\Course.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:14:34.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IAssignmentRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IAssignmentRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:03:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssignmentSubmission.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\AssignmentSubmission.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\AssignmentSubmission.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\AssignmentSubmission.cs",
+              "RelativeToolTip": "Models\\Entities\\AssignmentSubmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:15:37.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T07:56:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAmwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:29:12.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:14:31.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILessonService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ILessonService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ILessonService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ILessonService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ILessonService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:49:05.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T09:28:38.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:13:37.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T07:48:02.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAssignmentService.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Services\\Interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:06:19.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:58:41.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AssignmentRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "Repositories\\AssignmentRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:04:07.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:57:42.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ILessonRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\ILessonRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ILessonRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\ILessonRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ILessonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T07:45:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Repositories\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:57:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubmissionStatus.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Enums\\SubmissionStatus.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\SubmissionStatus.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Enums\\SubmissionStatus.cs",
+              "RelativeToolTip": "Models\\Enums\\SubmissionStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:13:30.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EnrollmentStatus.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Enums\\EnrollmentStatus.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\EnrollmentStatus.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Enums\\EnrollmentStatus.cs",
+              "RelativeToolTip": "Models\\Enums\\EnrollmentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:12:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssignmentStatus.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Enums\\AssignmentStatus.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\AssignmentStatus.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Enums\\AssignmentStatus.cs",
+              "RelativeToolTip": "Models\\Enums\\AssignmentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:13:11.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AssignmentPriority.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Enums\\AssignmentPriority.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\AssignmentPriority.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Enums\\AssignmentPriority.cs",
+              "RelativeToolTip": "Models\\Enums\\AssignmentPriority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:12:51.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Lesson.cs",
+              "RelativeToolTip": "Models\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:14:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Entities\\Enrollment.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:15:04.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Models\\Entities\\Category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:14:22.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Assignment.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Models\\Entities\\Assignment.cs",
+              "RelativeToolTip": "Models\\Entities\\Assignment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:15:25.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LmsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Migrations\\LmsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LmsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Migrations\\LmsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LmsDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAIwJgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:33:50.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\User\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\LoginResponseDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\User\\LoginResponseDto.cs",
+              "RelativeToolTip": "DTOs\\User\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T07:28:11.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\User\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\LoginDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\User\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\User\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:39:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\LessonDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Lesson\\LessonDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Lesson\\LessonDto.cs",
+              "RelativeToolTip": "DTOs\\Lesson\\LessonDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:42:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateCourseDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\UpdateCourseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Course\\UpdateCourseDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\UpdateCourseDto.cs",
+              "RelativeToolTip": "DTOs\\Course\\UpdateCourseDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:41:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateCourseDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\CreateCourseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Course\\CreateCourseDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\CreateCourseDto.cs",
+              "RelativeToolTip": "DTOs\\Course\\CreateCourseDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:41:10.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\CourseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Course\\CourseDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Course\\CourseDto.cs",
+              "RelativeToolTip": "DTOs\\Course\\CourseDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:41:33.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "DTOs\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:40:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Category\\CategoryDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\Category\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:40:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SubmissionDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\SubmissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AssignmentSubmission\\SubmissionDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\SubmissionDto.cs",
+              "RelativeToolTip": "DTOs\\AssignmentSubmission\\SubmissionDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:43:55.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GradeSubmissionDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\GradeSubmissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AssignmentSubmission\\GradeSubmissionDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\AssignmentSubmission\\GradeSubmissionDto.cs",
+              "RelativeToolTip": "DTOs\\AssignmentSubmission\\GradeSubmissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:43:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateAssignmentDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\UpdateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Assignment\\UpdateAssignmentDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\UpdateAssignmentDto.cs",
+              "RelativeToolTip": "DTOs\\Assignment\\UpdateAssignmentDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:44:28.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateAssignmentDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "RelativeToolTip": "DTOs\\Assignment\\CreateAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:44:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AssignmentDto.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\AssignmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Assignment\\AssignmentDto.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\DTOs\\Assignment\\AssignmentDto.cs",
+              "RelativeToolTip": "DTOs\\Assignment\\AssignmentDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:44:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LmsDbContext.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Data\\LmsDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LmsDbContext.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Data\\LmsDbContext.cs",
+              "RelativeToolTip": "Data\\LmsDbContext.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:31:41.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv1AAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:07:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "Controllers\\AssignmentsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv18AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:08:59.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T09:23:57.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LmsProject",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\LmsProject.csproj",
+              "RelativeDocumentMoniker": "LmsProject.csproj",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\LmsProject.csproj",
+              "RelativeToolTip": "LmsProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T04:51:21.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260912071857_InitialCreate.cs",
+              "DocumentMoniker": "C:\\LmsProject\\LmsProject\\Migrations\\20260912071857_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260912071857_InitialCreate.cs",
+              "ToolTip": "C:\\LmsProject\\LmsProject\\Migrations\\20260912071857_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260912071857_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:18:57.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
